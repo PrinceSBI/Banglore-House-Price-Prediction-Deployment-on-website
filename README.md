@@ -1,0 +1,2 @@
+# Banglore-House-Price-Prediction-Deployment-on-website
+Performed EDA on the data sets such as Data Cleaning, fulling missing data, outlier removal, feature reduction, etc. Trained and Tested Linear Regression, Decision Trees, Random Forest Regressor Models. Preformed Cross Validation and Hyper parameter Tuning using GridSearchCV to obtain the best ML model. Used Python Flask server as the backend to deploy the ML Model on the website page. HTML, CSS, javascript was used to make the User Interface. Used AWS EC2 Instance to host the website on the Internet.
